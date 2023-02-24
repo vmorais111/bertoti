@@ -12,16 +12,16 @@ Existe uma diferença fundamental entre programadores e desenvolvedores de softw
 
 Aula 3-24/02/23
 
-1-O que é Engenharia de Software?
-2-O que são requisitos?
-2.1- O que são requisitos funcionais?
-2.2-O que são requisitos não funcionais?
-Dê exemplos.
+1-O que é Engenharia de Software? <br/>
+2-O que são requisitos? <br/>
+2.1- O que são requisitos funcionais? <br/>
+2.2-O que são requisitos não funcionais? <br/>
+Dê exemplos. <br/>
 
-DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
+DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais. <br/>
 
-1- Trata-se de uma abordagem técnica e sistematica para a criação e desenvolvimento de softwares, focando nas questões praticas do processo e buscando criar o melhor produto possível, adequando-o as expectativas do usuário. Em outra visão, poderia ser descrita como uma forma de programação que tem como diferencial o tempo, escala e trade-offs na hora de sua criação.
-2- Em suma, trata-se dos pontos que o programa precisa cumprir para que corresponda as necessidades e desejos de seus usuários.
-2.1- Trata-se dos pontos necessários que um software deve ter para que o mesmo funcione de acordo com os objetivos especificados na sua criação, atendendo assim as necessidades de seus usuários e suprindo suas demandas. Pode se ter como exemplo disso a capacidade de inserir e extratir dados de um banco de dados ou permitir que uma pessoa possa entrar em comunicação com o vendedor num site de vendas online. 
-2.2- trata-se daqueles requisitos não necessários, mas desejados ao bom funcionamento de um sistema. Foca-se aqui na qualidade do mesmo, estando tais pontos por vezes implicitos na hora da criação de um programa. Ex: Aspectos de segurança do software; Acessibilidade; Usabilidade; etc. 
-3[DESAFIO]-performance e tempo de aprendizagem.
+1- Trata-se de uma abordagem técnica e sistematica para a criação e desenvolvimento de softwares, focando nas questões praticas do processo e buscando criar o melhor produto possível, adequando-o as expectativas do usuário. Em outra visão, poderia ser descrita como uma forma de programação que tem como diferencial o tempo, escala e trade-offs na hora de sua criação. <br/>
+2- Em suma, trata-se dos pontos que o programa precisa cumprir para que corresponda as necessidades e desejos de seus usuários. <br/>
+2.1- Trata-se dos pontos necessários que um software deve ter para que o mesmo funcione de acordo com os objetivos especificados na sua criação, atendendo assim as necessidades de seus usuários e suprindo suas demandas. Pode se ter como exemplo disso a capacidade de inserir e extratir dados de um banco de dados ou permitir que uma pessoa possa entrar em comunicação com o vendedor num site de vendas online. <br/>
+2.2- trata-se daqueles requisitos não necessários, mas desejados ao bom funcionamento de um sistema. Foca-se aqui na qualidade do mesmo, estando tais pontos por vezes implicitos na hora da criação de um programa. Ex: Aspectos de segurança do software; Acessibilidade; Usabilidade; etc. <br/>
+3[DESAFIO]-performance e tempo de aprendizagem. <br/>
