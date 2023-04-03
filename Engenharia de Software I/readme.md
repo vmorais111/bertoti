@@ -26,7 +26,7 @@ DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 2.2- trata-se daqueles requisitos não necessários, mas desejados ao bom funcionamento de um sistema. Foca-se aqui na qualidade do mesmo, estando tais pontos por vezes implicitos na hora da criação de um programa. Ex: Aspectos de segurança do software; Acessibilidade; Usabilidade; etc. <br/>
 3[DESAFIO]-performance e tempo de aprendizagem. <br/>
 
-Aula 4- 24/03
+Aula 4- 24/03/23
 
 Classe UML + Código
 
