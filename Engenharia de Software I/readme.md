@@ -25,3 +25,150 @@ DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 2.1- Trata-se dos pontos necessários que um software deve ter para que o mesmo funcione de acordo com os objetivos especificados na sua criação, atendendo assim as necessidades de seus usuários e suprindo suas demandas. Pode se ter como exemplo disso a capacidade de inserir e extratir dados de um banco de dados ou permitir que uma pessoa possa entrar em comunicação com o vendedor num site de vendas online. <br/>
 2.2- trata-se daqueles requisitos não necessários, mas desejados ao bom funcionamento de um sistema. Foca-se aqui na qualidade do mesmo, estando tais pontos por vezes implicitos na hora da criação de um programa. Ex: Aspectos de segurança do software; Acessibilidade; Usabilidade; etc. <br/>
 3[DESAFIO]-performance e tempo de aprendizagem. <br/>
+
+Aula 4- 24/03
+
+Classe UML + Código
+
+![UML_bertoti](https://user-images.githubusercontent.com/111707785/229521281-91065258-2e36-4144-b6f3-4e8b9fe1dc56.png)
+
+Código:
+
+CLASSE DATA:
+
+public class Data {
+    private int dia;
+    private int mes;
+    private int ano;
+
+    public Data(int dia, int mes, int ano) {
+        this.dia = dia;
+        this.mes = mes;
+        this.ano = ano;
+    }  
+    
+    public int getDia() {
+        return dia;
+    }
+
+    public void setDia(int dia) {
+        this.dia = dia;
+    }
+
+    public int getMes() {
+        return mes;
+    }
+
+    public void setMes(int mes) {
+        this.mes = mes;
+    }
+
+    public int getAno() {
+        return ano;
+    }
+
+    public void setAno(int ano) {
+        this.ano = ano;
+    }
+    
+    public String Formatardata(){
+        return dia + "/"+ mes + "/" + ano;
+    }
+}
+
+---------------------------------------------------------------------------------------
+
+CLASSE ALUNO:
+
+public class Aluno {
+    
+    private int ra;
+    private String nome;
+    private char sexo;
+    private String rg;
+    private String cpf;
+    private Data dataNasc;
+
+    public Aluno(int ra, String nome, char sexo, String rg, String cpf, int dia, int mes, int ano) {
+        this.ra = ra;
+        this.nome = nome;
+        this.sexo = sexo;
+        this.rg = rg;
+        this.cpf = cpf;
+        this.dataNasc = new Data(dia, mes, ano);
+    }
+
+    public String getCpf() {
+        return cpf;
+    }
+
+    public void setCpf(String cpf) {
+        this.cpf = cpf;
+    }
+
+    public int getRa() {
+        return ra;
+    }
+
+    public void setRa(int ra) {
+        this.ra = ra;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public char getSexo() {
+        return sexo;
+    }
+
+    public void setSexo(char sexo) {
+        this.sexo = sexo;
+    }
+
+    public String getRg() {
+        return rg;
+    }
+
+    public void setRg(String rg) {
+        this.rg = rg;
+    }
+
+    public Data getDataNasc() {
+        return dataNasc;
+    }
+
+    public void setDataNasc(Data dataNasc) {
+        this.dataNasc = dataNasc;
+    }
+    
+    public void imprimirAluno(){
+       System.out.println("RA: "+ this.getRa());
+       System.out.println("Nome: "+ this.getNome());
+       System.out.println("Sexo: "+this.getSexo());
+       System.out.println("RG: "+ this.getRg());
+       System.out.println("CPF: "+this.getCpf());
+       System.out.println("Data: "+ this.dataNasc.Formatardata());
+    }
+}
+
+----------------------------------------------------------------------------------------------------
+
+CLASSE TESTE:
+
+public class Teste {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Aluno aluno = new Aluno(33049251, "Joselito Morales", 'M',"31.123.321-5", "789.678.567-43", 12, 12, 23);
+        aluno.imprimirAluno();
+    }
+    
+}
