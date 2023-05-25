@@ -29,9 +29,8 @@ DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 Aula 4- 24/03/23
 
 Classe UML + Código
-![UML_Bertoti](https://github.com/vmorais111/bertoti/assets/111707785/0d125af6-8764-4c1a-88d9-449504aaf41c)
 
-
+![UML_Bertoti](https://github.com/vmorais111/bertoti/assets/111707785/cda24b13-3788-43b3-bed2-14549f9c486b)
 
 Código:
 
