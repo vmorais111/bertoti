@@ -38,6 +38,7 @@ Código:
 CLASSE DATA:
 
 public class Data {
+
     private int dia;
     private int mes;
     private int ano;
@@ -162,6 +163,7 @@ public class Aluno {
 CLASSE ESCOLA: 
 
 public class Escola {
+
     private String nome;
     private List<Aluno> listAluno;
 
