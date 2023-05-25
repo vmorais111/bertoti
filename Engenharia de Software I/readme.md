@@ -29,8 +29,9 @@ DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 Aula 4- 24/03/23
 
 Classe UML + Código
+![UML_Bertoti](https://github.com/vmorais111/bertoti/assets/111707785/0d125af6-8764-4c1a-88d9-449504aaf41c)
 
-![UML_bertoti](https://user-images.githubusercontent.com/111707785/229521281-91065258-2e36-4144-b6f3-4e8b9fe1dc56.png)
+
 
 Código:
 
@@ -158,17 +159,46 @@ public class Aluno {
 
 ----------------------------------------------------------------------------------------------------
 
+CLASSE ESCOLA: 
+
+public class Escola {
+    private String nome;
+    private List<Aluno> listAluno;
+
+    public Escola(String nome) {
+        this.nome = nome;
+        listAluno = new ArrayList<Aluno>();
+    }
+    
+    public void addAluno(Aluno aluno){
+        listAluno.add(aluno);
+    }
+    public void imprimir(){
+        System.out.println("nome: "+ nome);
+        for (int i=0;i<listAluno.size();i++){
+            Aluno aluno = listAluno.get(i);
+            System.out.println("*");
+            aluno.imprimirAluno();
+        }
+    }  
+    
+
+}
+
+----------------------------------------------------------------------------------------------------
+
 CLASSE TESTE:
 
 public class Teste {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        Aluno aluno = new Aluno(33049251, "Joselito Morales", 'M',"31.123.321-5", "789.678.567-43", 12, 12, 23);
-        aluno.imprimirAluno();
-    }
-    
+        Aluno al1,al2,al3;
+        al1= new Aluno(33049251, "Joselito Morales", 'M',"31.123.321-5", "789.678.567-43", 12, 12, 23);
+        al2= new Aluno(33049251, "Miguelito Silva", 'M',"32.333.444-6", "567.443.221-22", 14, 01, 23);
+        al3= new Aluno(33049251, "Mariana Silveira", 'F',"22.454.323-5", "798.000.111-34", 12, 06, 23);
+        
+        Escola escola=new Escola("Escola Estadual Mazaropi");
+        escola.addAluno(al1);
+        escola.addAluno(al2);
+        escola.addAluno(al3);
+        escola.imprimir();
 }
