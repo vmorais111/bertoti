@@ -1,0 +1,14 @@
+IHC - Interação Humano Computador
+
+CLI - Comand Line Interface			
+Linguagem compt.
+
+GUI - Graphical user interface (Interface gráfica do utilizador)
+Baseado em metáforas (ícones, janelas, etc)
+
+NLI - Natural Language Interface	
+Linguagem humana interpretada pelo comp.
+Engenharia de prompt
+"Qualquer um ser um programador"
+
+*1950 - can machines think? - Alan Turing,1950			
