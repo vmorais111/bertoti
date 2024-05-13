@@ -9,7 +9,7 @@ package facedepattern;
  * @author guara
  */
 public class CPU {
-    public void iniciar(){
+    public void iniciarCpu(){
         System.out.println("Log: 'CPU iniciada!'");
     }    
 }
