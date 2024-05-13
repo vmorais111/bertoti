@@ -8,8 +8,8 @@ package facedepattern;
  *
  * @author guara
  */
-public class Periféricos {
-    public void iniciar(){
+public class PerifÃ©ricos {
+    public void iniciarPer(){
         System.out.println("Log: 'Perifericos iniciados!'");
     }
 }
