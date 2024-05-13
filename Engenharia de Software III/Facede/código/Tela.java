@@ -9,7 +9,7 @@ package facedepattern;
  * @author guara
  */
 public class Tela {
-    public void iniciar(){
+    public void iniciarTela(){
         System.out.println("Log: 'Tela ligada!'");
     }    
 }
