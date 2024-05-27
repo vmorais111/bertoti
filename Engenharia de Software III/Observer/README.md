@@ -1,3 +1,3 @@
 # OBSERVER
 
-![UML](https://github.com/vmorais111/bertoti/assets/111707785/11e79e6f-cbb2-405a-bb94-c32627c2ad5d)
+![ObserverUML](https://github.com/vmorais111/bertoti/assets/111707785/10e38bc4-3e35-440b-8d92-6715a35ad9ee)
