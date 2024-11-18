@@ -1,10 +1,14 @@
 # Post
 
-![image](https://github.com/user-attachments/assets/e1e47013-c56e-4486-8674-de27933cd4fd)
+![image](https://github.com/user-attachments/assets/b971d397-c58f-4a0d-a712-5ac157d93188)
 
-# Get
+# Get 
 
-![image](https://github.com/user-attachments/assets/c670d831-c11e-4e01-9b84-05cae1b59fe5)
+![image](https://github.com/user-attachments/assets/04d7b0fe-9f38-46d0-9936-8566e1cf42bd)
+
+# Put 
+
+![image](https://github.com/user-attachments/assets/e1ff13c5-86a7-4c7d-8dc9-1a41bde292f8)
 
 # Delete
 
