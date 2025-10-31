@@ -23,36 +23,19 @@ Durante minha vivência no setor jurídico, atuei como estagiário em diversos s
 * [LinkedIn](https://www.linkedin.com/in/vitor-faria-morais-330b19204/)
 
 ## Meus Principais Conhecimentos
-#### Front-end
-- HTML <img align="center" alt="HTML" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-- CSS <img align="center" alt="CSS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-- JavaScript <img align="center" alt="JS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-- React <img align="center" alt="React" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-- Vue <img align="center" alt="Vue" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-- Tailwind  <img align="center" alt="Tailwind" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-          
-#### Back-end
-- Python <img align="center" alt="Python" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-- Java <img align="center" alt="Java" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-- JavaScript <img align="center" alt="JS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-- NodeJS <img align="center" alt="Node" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-- TypeScript <img align="center" alt="Ts" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-- Spring <img align="center" alt="Spring" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-- Nest JS <img align="center" alt="Nest" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-  
-#### Banco De Dados
-- PostgreSQL <img align="center" alt="PostgreSQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-- Docker  <img  align="center" alt="Docker" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-#### DevOps
-- AWS <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-- Git <img align="center" alt="Git" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+| **Área** | **Tecnologias** |
+|-----------|----------------|
+| **Front-end** | HTML5 <img align="center" alt="HTML" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp; CSS <img align="center" alt="CSS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp; JavaScript <img align="center" alt="JS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp; React <img align="center" alt="React" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp; Vue <img align="center" alt="Vue" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> &nbsp; Tailwind <img align="center" alt="Tailwind" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> &nbsp; Bootstrap <img align="center" alt="Bootstrap" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> |
+| **Back-end** | Python <img align="center" alt="Python" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp; Java <img align="center" alt="Java" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp; JavaScript <img align="center" alt="JS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp; NodeJS <img align="center" alt="Node" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp; TypeScript <img align="center" alt="Ts" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp; Flask <img align="center" alt="Flask" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /> &nbsp; Spring <img align="center" alt="Spring" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> &nbsp; NestJS <img align="center" alt="Nest" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" /> |
+| **Banco de Dados** | SQLite <img align="center" alt="SQLite" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> &nbsp; PostgreSQL <img align="center" alt="PostgreSQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> &nbsp; MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp; Docker <img align="center" alt="Docker" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> |
+| **DevOps** | AWS <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> &nbsp; Git <img align="center" alt="Git" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> |
+
 
 ## Meus Projetos
 
 <details>
-<summary>1º Semestre</summary>
+<summary>1º Semestre - Lorem Report</summary>
 
 #### **Informações**:
 - **Data**: _2022 - 2º Sem_.
@@ -94,8 +77,10 @@ Durante minha vivência no setor jurídico, atuei como estagiário em diversos s
 
 Minhas principais contribuições no projeto foram:
 
-- Implementação das **Especificações dos laboratórios**, criando uma integração que demonstrava ao usuário qual a configuração o laboratório possuia e na tela do admin a possibilidade de alterar os componentes caso necessário assim realizando o controle junto ao **MySQL**.
-- Desenvolvimento da funcionalidade de **Admin**, que permitia criar e gerenciar a hierarquia entre usuarios. Trabalhei diretamente na interação entre o frontend e o backend, garantindo que os chamados fossem armazenados corretamente no **MySQL** e acesso correto a cada usuário.
+- Criação do protótipo inicial do projeto (figma);
+- Criação do layout do site, utilizando HTML e CSS;
+- Criação do sistema de listagem de chamados tecnicos;
+- Criação do sistema de login, com a validação do mesmo pelo backend;
 
 ## Hard Skills
 
@@ -115,33 +100,69 @@ Minhas principais contribuições no projeto foram:
 
 </details>
 
+<details>
+<summary>2º Semestre - PARE (Plataforma de Acompanhamento de Rendimento Escolar)</summary>
 
-[GIT](https://www.git.com)
+#### **Informações**:
+- **Data**: _2023 - 2º Sem_.
+- **Empresa:** *FATEC SJC - Prof. Jessen Vidal*
+- **Proposta:** Sistema de gestão de atividades e acompanhamento escolar.
+- **Professores:** _Juliano Bertoti e Cláudio Etelvino_
 
-#### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+#### **Desafio:** 
+<p align="justify">Desenvolver um programa para auxiliar professores da rede pública de ensino na gestão das salas de aula, otimizando o controle de atividades avaliativas aplicadas e permitindo o acompanhamento do desempenho individual dos alunos. O programa em questão deve rodar localmente, independete de conexão com a internet, sendo leve o suficiente para rodar em computadores sem grande capacidade de processamento. </p>
 
-#### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+#### **Solução:** 
+<p align="justify">Criação de um software desktop baseado em java que permite ao docente o gerenciamento eficiente das turmas/alunos por ele lecionados, dando ao mesmo a possibilidade de cadastrar provas e trabalhos aplicados, registrem notas e observações sobre seus alunos e analisem a evolução das turmas/alunos de forma prática, confiável e centralizada. </p>
 
-#### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+**GitHub:** [PARE - Plataforma de Acompanhamento de Rendimento Escolar](https://github.com/m-u-l-a-s/PARE?tab=readme-ov-file)
 
-#### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+<details>
+  
+  <summary>Demo</summary>
+  
+  <div align="center">
+    
+   <img width="1217" height="830" alt="image" src="https://github.com/user-attachments/assets/c0359bbb-6f9f-411f-a6cc-a288d1dfa86a" />
 
-### Em 2022-1
-Mesmo formato
+  </div>
+  
+  - Link: https://www.youtube.com/watch?v=8Zq2rWCrLl4
+</details>
 
-### Em 2022-2
-Mesmo formato
+## Tecnologias Utilizadas
 
-### Em 2023-1
-Mesmo formato
+- Java: Principal linguagem de programação utilizada para o desenvolvimento da aplicação desktop, aplicada tanto no backend quanto no frontend.
+- Apache NetBeans: IDE escolhida para o desenvolvimento do projeto Java, com recursos integrados de depuração, design visual e integração com banco de dados.
+- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação, incluindo instituições, turmas, alunos e atividades avaliativas.
+- Figma: Ferramenta de prototipação utilizada para planejar a interface da aplicação, permitindo que o design fosse validado visualmente antes do desenvolvimento.
+- Trello: Aplicação de gerenciamento de tarefas que auxiliou na organização do backlog, acompanhamento das sprints e distribuição de atividades entre os membros do time.
 
-### Em 2023-2
-Mesmo formato
+## Contribuições Pessoais
 
+Minhas principais contribuições no projeto foram:
+
+- Criação do protótipo inicial do projeto (figma);
+- Criação do layout do modal para cadastro de novos trabalhos/atividades;
+- Criação do componente para cadastro de novas salas, com associação de horarios e alunos;
+- Criação do sistema de alertas/lembretes sobre atividades e avaliações;
+- Atuação como Product Owner do projeto, validando as entregas junto ao cliente interno;
+
+## Hard Skills
+
+- Java: Principal linguagem de programação utilizada na cosntrução da aplicação. (9/10)
+- Java Swing: Frontend desenvolvido com este framework, utilizando-o para criar e manipular componentes visuais, incluindo botões, eventos e redirecionamentos. (8/10)
+- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação, incluindo instituições, turmas, alunos e atividades avaliativas. (7/10)
+- Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente. (10/10)
+
+## Soft Skills
+
+- **Comunicação**: Atuei como PO do projeto após a saída do antigo Product Owner, conduzindo as diversas reuniões junto a equipe para alinhar as expectativas e estando em constante contato com o cliente para averiguar o correto caminhar do projeto.
+- **Gestão de Conflitos**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os integrantes do grupo participassem do projeto de maneira harmoniosa.
+- **Colaboração**: Trabalhei de forma próxima com colegas desenvolvedores para garantir integração entre as telas e funcionalidades, propondo soluções em conjunto e fazendo revisões de código.
+- **Responsabilidade Técnica**: Assumi a implementação de partes críticas do sistema e garanti o funcionamento correto de lógicas como cadastro automático de avaliações.
+
+</details>
 
 
 
