@@ -9,7 +9,7 @@
 <div align="left">
   
 <p align="justify"> 
-Olá, me chamo Vitor Faria Morais, aluno do 5º período do curso de Tecnologia em Banco de Dados pela FATEC SJC - Prof. Jessen Vidal <i>(2024 - Momento Atual)</i>. Formado como Bacharel em Direito pela Universidade do Estado de Minas Gerais (UEMG) <i>(2017 - 2022)</i>, ingressei originalmente na FATEC pelo curso de Tecnologia em Análise e Desenvolvimento de Sistemas <i>(2022 - 2024)</i>, realizado 4 semestres do mesmo.
+Olá, me chamo Vitor Faria Morais, aluno do 5º período do curso de Tecnologia em Banco de Dados pela FATEC SJC - Prof. Jessen Vidal <i>(2024 - Momento Atual)</i>. Formado como Bacharel em Direito pela Universidade do Estado de Minas Gerais (UEMG) <i>(2017 - 2022)</i>, ingressei originalmente na FATEC pelo curso de Tecnologia em Análise e Desenvolvimento de Sistemas <i>(2022 - 2024)</i>, tendo realizado 4 semestres do mesmo.
 </p>
   
 <p align="justify">
@@ -51,8 +51,70 @@ Durante minha vivência no setor jurídico, atuei como estagiário em diversos s
 
 ## Meus Projetos
 
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+<details>
+<summary>1º Semestre</summary>
+
+#### **Informações**:
+- **Data**: _2022 - 2º Sem_.
+- **Empresa:** *FATEC SJC - Prof. Jessen Vidal*
+- **Proposta:** Sistema de controle e gerenciamento de chamados de assistencia técnica.
+- **Professores:** *Jean Carlos e Egydio* 
+
+#### **Desafio:** 
+<p align="justify">Desenvolver um sistema web para controle de ordem de serviços (SOS), automatizando o processo de informação de equipamentos deficitários (Hardware e Software), por meio de mapas que mostram o layout dos laboratórios da FATEC para uma melhor experiência do usuário. Deve contar com uma área de controle por parte dos técnicos, possibilitando melhor administração dos chamados e gestão dos laboratórios.</p>
+
+#### **Solução:** 
+<p align="justify">Criação de um software que facilita a abertura de chamados para o técnico, possibilitando ao mesmo a vizualização do layout dos laboratórios para localização e identificação do problema com maior facilidade. O sistema conta com legendas que apresentam soluções para problemas recorrentes, oferecendo ao usuário a possibilidade de resolução da questão sem maiores burocracias. Conta ainda com a possibilidade de mudanças/criação de um novo layout por meio de um mapa interativo, administração dos chamados por parte do técnicos, além da capacidade de individualização de cada máquina cadastrada, com a nomenclatura de cada computador e inserção de características do hardware/software dos mesmos </p>
+
+**GitHub:** [TerramEtVeru](https://github.com/TerramEtVeru/API_Suporte_Fatec?tab=readme-ov-file)</br>
+
+<details>
+  
+  <summary>GIF</summary>
+  
+  <div align="center">
+    
+   ![Design sem nome (5)](https://github.com/user-attachments/assets/7778492e-33f6-41f5-ae20-defa685345d8)
+  
+  </div>
+  
+  - Link: https://www.youtube.com/watch?v=wi2l6Axu2Rk
+</details>
+
+## Tecnologias Utilizadas
+
+- **HTML5 & CSS**: Utilizados para criar uma interface web intuitiva e responsiva, que facilita a navegação e uso da aplicação pelos técnicos.
+- **JavaScript**: Responsável por tornar a aplicação interativa, oferecendo funcionalidades dinâmicas como o drag and drop para reorganizar os computadores e realizar a criação/alteração dos layouts.
+- **Python**: Linguagem base para a construção do programa, utilizada para estruturar a lógica da aplicação, realizar o processamento de dados e integrar as diferentes camadas do sistema.
+- **Flask**: Framework web desenvolvido em Python, responsável por gerenciar as rotas, tratar as requisições HTTP, conectar-se ao banco de dados e disponibilizar as funcionalidades da aplicação por meio de uma API REST.
+- **SQLite**: Banco de dados utilizado para armazenar todas as informações sobre os chamados técnicos, o estado das máquinas e o histórico de manutenção.
+- **Bootstrap**: Responsável pelo Layout geral da aplicação, fornecendo o framework para diversos componentes do frontend.
+
+## Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Implementação das **Especificações dos laboratórios**, criando uma integração que demonstrava ao usuário qual a configuração o laboratório possuia e na tela do admin a possibilidade de alterar os componentes caso necessário assim realizando o controle junto ao **MySQL**.
+- Desenvolvimento da funcionalidade de **Admin**, que permitia criar e gerenciar a hierarquia entre usuarios. Trabalhei diretamente na interação entre o frontend e o backend, garantindo que os chamados fossem armazenados corretamente no **MySQL** e acesso correto a cada usuário.
+
+## Hard Skills
+
+- **HTML5**: Desenvolvimento de interfaces web de forma estruturada. Proeficiência: (8/10).
+- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade. Proeficiência: (8/10).
+- **Python**: Linguagem utilizada para criação do sistema, reponsável pela comunicação entre o sqlite (Banco de Dados) e o backend. Proeficiência: (09/10).
+- **Flask**: Framework para densenvolvimento Web utilizando Python, responsável pela implementação do REST API para a comunicação entre o frontend/backend. Proeficiência: (7/10).
+- **SQlite**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados. Proeficiência: (7/10).
+- **Bootstrap**: Framework front-end que fornece componentes prontos e estilos CSS/JS para criação de interfaces modernas e responsivas, garantindo boa experiência de uso em diferentes dispositivos. Proeficiência: (07/10).
+- **JavaScript**: Linguagem de programação voltada à interação dinâmica no front-end, responsável por manipular elementos da interface, validar formulários, exibir mensagens e aprimorar a experiência do usuário sem recarregar a página. Utilizada em conjunto com HTML e CSS para construir páginas mais interativas e responsivas. Proeficiência: (6/10).
+
+## Soft Skills
+
+- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
+- **Gestão de Conflitos**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os integrantes do grupo participassem do projeto de maneira harmoniosa.
+- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
+
+</details>
+
 
 [GIT](https://www.git.com)
 
