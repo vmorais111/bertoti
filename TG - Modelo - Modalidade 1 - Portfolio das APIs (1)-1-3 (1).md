@@ -1,12 +1,13 @@
 <div align="center">
-  <h1>Vitor Faria Morais</h1>
+  <h1>Trabalho de Graduação - Vitor Faria Morais</h1>
+  <h3> Modalidade: Portifólio</h3>
 </div>
 
 ## Introdução
-<img align="right" width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/7ebaee64-1769-4811-8c98-7e56b4afed7f"
- />
+<img align="right" width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/7ebaee64-1769-4811-8c98-7e56b4afed7f"/>
 
 <div align="left">
+  
 <p align="justify"> 
 Olá, me chamo Vitor Faria Morais, aluno do 5º período do curso de Tecnologia em Banco de Dados pela FATEC SJC - Prof. Jessen Vidal <i>(2024 - Momento Atual)</i>. Formado como Bacharel em Direito pela Universidade do Estado de Minas Gerais (UEMG) <i>(2017 - 2022)</i>, ingressei originalmente na FATEC pelo curso de Tecnologia em Análise e Desenvolvimento de Sistemas <i>(2022 - 2024)</i>, realizado 4 semestres do mesmo.
 </p>
@@ -14,6 +15,7 @@ Olá, me chamo Vitor Faria Morais, aluno do 5º período do curso de Tecnologia 
 <p align="justify">
 Durante minha vivência no setor jurídico, atuei como estagiário em diversos segmentos do setor público, tais como o TRE (Tribunal Regional Eleitoral) de Minas Gerais e a Justiça Federal de 1º Grau. Após realizar uma transição de carreira para o setor da tecnologia, tive a oportunidade de trabalhar junto à Eficaz Mídia (2024), start-up responsável pela monetização de diversas páginas da Web. Hoje, atuo como estagiário no setor de Compliance da Embraer, trabalhando com o processamento e análise de dados, obtendo, por meio desta, a oportunidade de unir ambas as minhas formações.
 </p>
+
 </div>
 
 ## Contatos
