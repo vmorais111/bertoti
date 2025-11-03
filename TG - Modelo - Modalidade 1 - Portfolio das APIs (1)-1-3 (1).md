@@ -164,7 +164,72 @@ Minhas principais contribuições no projeto foram:
 
 </details>
 
+<details>
+<summary>3º Semestre - Porygon2</summary>
 
+#### **Informações**:
+- **Data**: _2024 - 2º Sem_.
+- **Empresa:** *GSW (Global Solutions & Web)*
+- **Proposta:** Ferramenta de Captura de Notícias (Web Scraper).
+- **Professores:** _Juliana Forin Pasquini Martinez, Giuliano Araújo Bertoti e Lucas Gonçalves Nadalete_
+
+#### **Desafio:** 
+<p align="justify"> A empresa em questão é especializada em soluções para o gerenciamento, controle de processos e negócios, tendo foco no desenvolvimento de software diversos para tais fins. Como parte de sua estratégia de negócios, desejavam eles a criação de uma solução capaz de coletar, armazenar e organizar notícias de fontes diversas para análise estratégica do mercado. </p>
+
+#### **Solução:** 
+<p align="justify"> Fora criado uma aplicação web desenvolvida em Java com uso de frameworks como Spring Boot e de um banco de dados relacional (MySQL) para armazenar portais, APIs, notícias, tags e consultas. A solução permite ao usuário cadastrar portais de notícias e APIs, definir marcadores/seletores, agendar extrações (diária, semanal ou mensal), atribuir tags às notícias e APIs, e realizar consultas filtradas por data ou por tag </p>
+
+**GitHub:** [Porygon2](https://github.com/PorygonAPI/Porygon2)
+
+<details>
+  
+  <summary>Demo</summary>
+  
+  <div align="center">
+    
+   
+
+  https://github.com/user-attachments/assets/4c0a4841-7579-4627-8aad-70586260ba5a
+
+
+  </div>
+  
+  - Link - protótipo: https://www.figma.com/design/0BWdbmpjQpwVmLui2AUoVl/API_3SEM_PORYGON?node-id=80-618
+</details>
+
+## Tecnologias Utilizadas
+
+- Java: Linguagem principal utilizada para o desenvolvimento do backend da aplicação, responsável pela lógica de negócio e integração com o banco de dados.
+- Spring Boot: Framework Java que facilita a criação de aplicações web robustas e escaláveis, fornecendo configuração simplificada e integração nativa com APIs REST.
+- Jsoup: Blibioteca utilizada para realizar a raspagem de dados da internet.
+- MySQL: Banco de dados relacional utilizado para armazenar portais, APIs, notícias, tags e consultas, garantindo consistência e performance nas operações de leitura e escrita.
+- Figma: Utilizado para o planejamento e prototipação das interfaces do sistema, permitindo validar o design antes da implementação.
+- Postman: Ferramenta utilizada para testar e validar as rotas das APIs, assegurando a integridade das respostas e o correto funcionamento dos endpoints.
+
+## Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Criação do sistema de web scraping no backend por meio da biblioteca Jsoup;
+- Criação do sistema de agendamento de raspagem de dados (diario, semanal ou mensal) no Spring Boot;
+- Alteração do modal de listagem de notícias cadastradas, filtrando por data e site;
+- Integração das páginas de tag e listagem de notícias com o backend;
+
+## Hard Skills
+
+- Java: Principal linguagem de programação utilizada na cosntrução da aplicação. (9/10)
+- Spring Boot: Framework utilizado no backend para lidar com as requisições das APIs REST. (8/10)
+- Jsoup: Biblioteca baseada em Java, utilizada para raspagem de dados dos portais online (9/10)
+- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. (8/10)
+- Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente. (10/10)
+
+## Soft Skills
+
+- **Colaboração**: Trabalhei lado a lado com os demais desenvolvedores, contribuindo ativamente para a integração das diferentes partes do sistema, revisando códigos e compartilhando boas práticas para aprimorar a qualidade do produto.
+
+- **Responsabilidade Técnica**: Assumi a liderança na implementação de componentes essenciais do projeto (Webscraping), assegurando a confiabilidade das principais funcionalidades e o cumprimento dos padrões de qualidade definidos pela equipe.
+
+</details>
 
 
 
