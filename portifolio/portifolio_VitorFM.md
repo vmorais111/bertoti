@@ -41,7 +41,6 @@ Durante minha vivência no setor jurídico, atuei como estagiário em diversos s
 - **Data**: _2022 - 2º Sem_.
 - **Empresa:** *FATEC SJC - Prof. Jessen Vidal*
 - **Proposta:** Sistema de controle e gerenciamento de chamados de assistencia técnica.
-- **Professores:** *Jean Carlos e Egydio* 
 
 #### **Desafio:** 
 <p align="justify">Desenvolver um sistema web para controle de ordem de serviços (SOS), automatizando o processo de informação de equipamentos deficitários (Hardware e Software), por meio de mapas que mostram o layout dos laboratórios da FATEC para uma melhor experiência do usuário. Deve contar com uma área de controle por parte dos técnicos, possibilitando melhor administração dos chamados e gestão dos laboratórios.</p>
@@ -107,7 +106,6 @@ Minhas principais contribuições no projeto foram:
 - **Data**: _2023 - 2º Sem_.
 - **Empresa:** *FATEC SJC - Prof. Jessen Vidal*
 - **Proposta:** Sistema de gestão de atividades e acompanhamento escolar.
-- **Professores:** _Juliano Bertoti e Cláudio Etelvino_
 
 #### **Desafio:** 
 <p align="justify">Desenvolver um programa para auxiliar professores da rede pública de ensino na gestão das salas de aula, otimizando o controle de atividades avaliativas aplicadas e permitindo o acompanhamento do desempenho individual dos alunos. O programa em questão deve rodar localmente, independete de conexão com a internet, sendo leve o suficiente para rodar em computadores sem grande capacidade de processamento. </p>
@@ -171,7 +169,6 @@ Minhas principais contribuições no projeto foram:
 - **Data**: _2024 - 2º Sem_.
 - **Empresa:** *GSW (Global Solutions & Web)*
 - **Proposta:** Ferramenta de Captura de Notícias (Web Scraper).
-- **Professores:** _Juliana Forin Pasquini Martinez, Giuliano Araújo Bertoti e Lucas Gonçalves Nadalete_
 
 #### **Desafio:** 
 <p align="justify"> A empresa em questão é especializada em soluções para o gerenciamento, controle de processos e negócios, tendo foco no desenvolvimento de software diversos para tais fins. Como parte de sua estratégia de negócios, desejavam eles a criação de uma solução capaz de coletar, armazenar e organizar notícias de fontes diversas para análise estratégica do mercado. </p>
@@ -244,7 +241,6 @@ Minhas principais contribuições no projeto foram:
 - **Data**: _2025 - 1º Sem_.
 - **Empresa:** *Visiona*
 - **Proposta:** Sistema WEB para manipulação e gerenciamento de dados espaciais.
-- **Professores:** _Emanuel Mineda Carneiro,Carlos Augusto Lombardi Garcia_
 
 #### **Desafio:** 
 <p align="justify"> A empresa propôs o desenvolvimento de uma solução voltada à agricultura de precisão com base em sensoriamento remoto. O desafio consistia em criar um sistema web capaz de manipular, editar e analisar dados espaciais provenientes de satélites, permitindo o aprimoramento de modelos de inteligência artificial usados na classificação automática de áreas agrícolas. As dificuldades estavam centradas na necessidade de visualização geoespacial em tempo real, correção de falsos positivos e negativos nas classificações, e integração de diferentes perfis de usuários (administrador, analista e consultor) com permissões e responsabilidades específicas. </p>
@@ -313,7 +309,6 @@ Minhas principais contribuições no projeto foram:
 - **Data**: _2025 - 2º Sem_.
 - **Empresa:** *Necto*
 - **Proposta:** Sistema WEB para controle e gestão de projetos.
-- **Professores:** _Juliana Forin Pasquini Martinez, Eduardo Sakaue e Lucas Gonçalves Nadalete_
 
 #### **Desafio:** 
 <p align="justify"> A empresa de em questão, ligada a área de desenvolvimento de softwares, busca aprimorar a gestão/controle que possui sobre seus projetos, registrados na plataforma Jira. O principal desafio enfrentado é a falta de visibilidade e indicadores de desepenho, o que dificulta o acompanhamento do progresso dos projetos executados e a tomada de decisões estratégicas. </p>
