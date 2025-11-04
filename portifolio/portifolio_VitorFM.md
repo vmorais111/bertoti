@@ -84,13 +84,13 @@ Minhas principais contribuições no projeto foram:
 
 ## Hard Skills
 
-- **HTML5**: Desenvolvimento de interfaces web de forma estruturada. Proeficiência: (8/10).
-- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade. Proeficiência: (8/10).
-- **Python**: Linguagem utilizada para criação do sistema, reponsável pela comunicação entre o sqlite (Banco de Dados) e o backend. Proeficiência: (09/10).
-- **Flask**: Framework para densenvolvimento Web utilizando Python, responsável pela implementação do REST API para a comunicação entre o frontend/backend. Proeficiência: (7/10).
-- **SQlite**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados. Proeficiência: (7/10).
-- **Bootstrap**: Framework front-end que fornece componentes prontos e estilos CSS/JS para criação de interfaces modernas e responsivas, garantindo boa experiência de uso em diferentes dispositivos. Proeficiência: (07/10).
-- **JavaScript**: Linguagem de programação voltada à interação dinâmica no front-end, responsável por manipular elementos da interface, validar formulários, exibir mensagens e aprimorar a experiência do usuário sem recarregar a página. Utilizada em conjunto com HTML e CSS para construir páginas mais interativas e responsivas. Proeficiência: (6/10).
+- **HTML5**: Desenvolvimento de interfaces web de forma estruturada. .
+- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade.
+- **Python**: Linguagem utilizada para criação do sistema, reponsável pela comunicação entre o sqlite (Banco de Dados) e o backend.
+- **Flask**: Framework para densenvolvimento Web utilizando Python, responsável pela implementação do REST API para a comunicação entre o frontend/backend.
+- **SQlite**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados.
+- **Bootstrap**: Framework front-end que fornece componentes prontos e estilos CSS/JS para criação de interfaces modernas e responsivas, garantindo boa experiência de uso em diferentes dispositivos.
+- **JavaScript**: Linguagem de programação voltada à interação dinâmica no front-end, responsável por manipular elementos da interface, validar formulários, exibir mensagens e aprimorar a experiência do usuário sem recarregar a página. Utilizada em conjunto com HTML e CSS para construir páginas mais interativas e responsivas..
 
 ## Soft Skills
 
@@ -150,10 +150,10 @@ Minhas principais contribuições no projeto foram:
 
 ## Hard Skills
 
-- Java: Principal linguagem de programação utilizada na cosntrução da aplicação. (9/10)
-- Java Swing: Frontend desenvolvido com este framework, utilizando-o para criar e manipular componentes visuais, incluindo botões, eventos e redirecionamentos. (8/10)
-- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação, incluindo instituições, turmas, alunos e atividades avaliativas. (7/10)
-- Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente. (10/10)
+- Java: Principal linguagem de programação utilizada na cosntrução da aplicação.
+- Java Swing: Frontend desenvolvido com este framework, utilizando-o para criar e manipular componentes visuais, incluindo botões, eventos e redirecionamentos. 
+- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação, incluindo instituições, turmas, alunos e atividades avaliativas.
+- Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
 
 ## Soft Skills
 
@@ -217,11 +217,11 @@ Minhas principais contribuições no projeto foram:
 
 ## Hard Skills
 
-- Java: Principal linguagem de programação utilizada na cosntrução da aplicação. (9/10)
-- Spring Boot: Framework utilizado no backend para lidar com as requisições das APIs REST. (8/10)
-- Jsoup: Biblioteca baseada em Java, utilizada para raspagem de dados dos portais online (9/10)
-- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. (8/10)
-- Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente. (10/10)
+- Java: Principal linguagem de programação utilizada na cosntrução da aplicação.
+- Spring Boot: Framework utilizado no backend para lidar com as requisições das APIs REST.
+- Jsoup: Biblioteca baseada em Java, utilizada para raspagem de dados dos portais online.
+- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação.
+- Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
 
 ## Soft Skills
 
@@ -288,11 +288,11 @@ Minhas principais contribuições no projeto foram:
 
 ## Hard Skills
 
-- **Java**: Principal linguagem de programação utilizada na cosntrução da aplicação. (9/10)
--** Spring Boot**: Framework utilizado no backend para lidar com as requisições das APIs REST. (9/10)
-- **Vue**: Framework utilizada para construção do frontend e todas as suas interfaces, incluindo a camada de edição dos talhões e dashboards para controle dos dados. (10/10)
-- **MySQL**: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. (7/10)
-- **Figma**: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente. (10/10)
+- **Java**: Principal linguagem de programação utilizada na cosntrução da aplicação. 
+-** Spring Boot**: Framework utilizado no backend para lidar com as requisições das APIs REST.
+- **Vue**: Framework utilizada para construção do frontend e todas as suas interfaces, incluindo a camada de edição dos talhões e dashboards para controle dos dados.
+- **MySQL**: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. 
+- **Figma**: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
 
 ## Soft Skills
 
@@ -357,11 +357,11 @@ Minhas principais contribuições no projeto foram:
 
 ## Hard Skills
 
-- **Java**: Principal linguagem de programação utilizada na cosntrução da aplicação. (9/10)
--** Spring Boot**: Framework utilizado no backend para lidar com as requisições das APIs REST. (9/10)
-- **Vue**: Framework utilizada para construção do frontend e todas as suas interfaces, incluindo a camada de edição dos talhões e dashboards para controle dos dados. (10/10)
-- **MySQL**: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. (7/10)
-- **Figma**: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente. (10/10)
+- **Java**: Principal linguagem de programação utilizada na cosntrução da aplicação. 
+-** Spring Boot**: Framework utilizado no backend para lidar com as requisições das APIs REST. 
+- **Vue**: Framework utilizada para construção do frontend e todas as suas interfaces, incluindo a camada de edição dos talhões e dashboards para controle dos dados.
+- **MySQL**: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. 
+- **Figma**: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
 
 ## Soft Skills
 
