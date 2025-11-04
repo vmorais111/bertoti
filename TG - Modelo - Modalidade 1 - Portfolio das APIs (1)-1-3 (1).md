@@ -241,7 +241,7 @@ Minhas principais contribuições no projeto foram:
 <summary>4º Semestre - Porygon3 (Manipulação de Dados Geoespaciais) </summary>
 
 #### **Informações**:
-- **Data**: _2024 - 2º Sem_.
+- **Data**: _2025 - 1º Sem_.
 - **Empresa:** *Visiona*
 - **Proposta:** Sistema WEB para manipulação e gerenciamento de dados espaciais.
 - **Professores:** _Emanuel Mineda Carneiro,Carlos Augusto Lombardi Garcia_
@@ -306,3 +306,71 @@ Minhas principais contribuições no projeto foram:
 
 </details>
 
+<details>
+<summary>5º Semestre - Neo Horizon </summary>
+
+#### **Informações**:
+- **Data**: _2025 - 2º Sem_.
+- **Empresa:** *Necto*
+- **Proposta:** Sistema WEB para controle e gestão de projetos.
+- **Professores:** _Juliana Forin Pasquini Martinez, Eduardo Sakaue e Lucas Gonçalves Nadalete_
+
+#### **Desafio:** 
+<p align="justify"> A empresa de em questão, ligada a área de desenvolvimento de softwares, busca aprimorar a gestão/controle que possui sobre seus projetos, registrados na plataforma Jira. O principal desafio enfrentado é a falta de visibilidade e indicadores de desepenho, o que dificulta o acompanhamento do progresso dos projetos executados e a tomada de decisões estratégicas. </p>
+
+#### **Solução:** 
+<p align="justify"> Desenvolvimento de uma aplicação web de inteligência de negócios para gestão de projetos, integrada à base de dados do Jira por meio da utilização de uma API. Essa ferramenta possuirá um painel de controle centralizado, fornecendo uma visão clara do desempenho dos projetos, os gastos associados, o andamento das tarefas, dentre outros indicadores relevantes ao gestores dos projetos. </p>
+
+**GitHub:** [Neo Horizon](https://github.com/FatecNeoHorizon/API_5)
+
+<details>
+  
+  <summary>Demo</summary>
+  
+  <div align="center">
+    
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f5103b59-80b5-4a28-9431-e0a271d13dea" />
+
+  </div>
+  
+  - Link: https://www.youtube.com/watch?v=h9xtqRggVMw
+</details>
+
+## Tecnologias Utilizadas
+
+- **Java**: Linguagem principal utilizada para o desenvolvimento do backend da aplicação, responsável pela lógica de negócio e integração com o banco de dados.
+- **Spring Boot**: Framework Java que facilita a criação de aplicações web robustas e escaláveis, fornecendo configuração simplificada e integração nativa com APIs REST.
+- **Vue.js**: Framework JavaScript utilizado para o desenvolvimento do frontend, garantindo interfaces interativas, responsivas e de fácil manutenção.
+- **Mysql**: Banco de dados relacional adotado para armazenar e gerenciar as informações do sistema, oferecendo alta confiabilidade e eficiência nas consultas.
+- **Docker**: Ferramenta utilizada para conteinerização da aplicação, permitindo padronização do ambiente, facilidade de deploy e portabilidade entre sistemas.
+- **Postman**: Utilizado para testar e validar os endpoints da API, assegurando o correto funcionamento das rotas e a integridade da comunicação entre frontend e backend.
+- **Figma**: Plataforma empregada para o design e prototipação das interfaces, possibilitando a visualização e validação da experiência do usuário antes da implementação.
+
+## Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Criação dos protótipos iniciais do sistema (wireframe), além de sua identidade visual;
+- Criação do menu principal, filtrado pelo perfil do usuário para exibição correta dos componentes;
+- Criação dos modais de listagem de fazendas e talhões, além dos componentes de cadastro e edição do mesmos;
+- Criação dos dashboards com as métricas do sistema para o uso do gestor/gerência, permitindo o acompanhamento/controle das atividades executadas pelo time;
+
+## Hard Skills
+
+- **Java**: Principal linguagem de programação utilizada na cosntrução da aplicação. (9/10)
+-** Spring Boot**: Framework utilizado no backend para lidar com as requisições das APIs REST. (9/10)
+- **Vue**: Framework utilizada para construção do frontend e todas as suas interfaces, incluindo a camada de edição dos talhões e dashboards para controle dos dados. (10/10)
+- **MySQL**: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. (7/10)
+- **Figma**: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente. (10/10)
+
+## Soft Skills
+
+- **Comunicação**: Mantive contato constante com os membros da equipe para alinhar as expectativas e definir prioridades de desenvolvimento, garantindo que todos estivessem cientes do progresso e dos desafios enfrentados. Essa troca contínua facilitou a resolução de dúvidas técnicas e a coordenação eficiente entre as camadas de frontend e backend.
+
+- **Gestão de Tempo**: Organizei e planejei as tarefas de acordo com o cronograma estabelecido, priorizando entregas críticas e evitando gargalos no desenvolvimento. Essa habilidade foi essencial para equilibrar prazos acadêmicos e demandas técnicas, mantendo o ritmo de progresso constante ao longo do projeto.
+
+- **Pensamento Crítico**: Analisei e avaliei diferentes soluções técnicas para os problemas enfrentados, especialmente em pontos de integração entre o backend em Spring Boot e o frontend em Vue.js. Essa postura analítica permitiu propor alternativas mais eficientes, reduzindo a complexidade e melhorando a performance do sistema.
+
+- **Adaptabilidade**: Diante de imprevistos técnicos e novas ferramentas, busquei aprender rapidamente e me adaptar às tecnologias utilizadas, como Docker e PostgreSQL. Essa flexibilidade possibilitou contribuir de forma mais ampla para o projeto, independentemente da camada de desenvolvimento em que estivesse atuando.
+
+</details>
