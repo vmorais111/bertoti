@@ -76,20 +76,20 @@ Durante minha vivência no setor jurídico, atuei como estagiário em diversos s
 
 Minhas principais contribuições no projeto foram:
 
-- Criação do protótipo inicial do projeto (figma);
-- Criação do layout do site, utilizando HTML e CSS;
-- Criação do sistema de listagem de chamados tecnicos;
-- Criação do sistema de login, com a validação do mesmo pelo backend;
+- Criação do protótipo inicial no Figma, definindo a identidade visual da aplicação e os fluxos de navegação do usuário;
+- Implementação do layout da página principal utilizando HTML5 e CSS3, estruturando a aplicação de modo responsivo e intuitivo;
+- Criação do sistema de listagem de chamados técnicos, que permitia a visualização dinâmica das solicitações de suporte, conectando os dados do banco SQLite ao frontend.;
+- Desenvolvimento do módulo de autenticação e login, garantindo segurança e integridade no acesso por parte dos técnicos;
+- Integração entre o backend em Flask e o frontend, definindo endpoints REST e validando as respostas com base nas requisições do cliente
 
 ## Hard Skills
 
-- **HTML5**: Desenvolvimento de interfaces web de forma estruturada. .
-- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade.
-- **Python**: Linguagem utilizada para criação do sistema, reponsável pela comunicação entre o sqlite (Banco de Dados) e o backend.
-- **Flask**: Framework para densenvolvimento Web utilizando Python, responsável pela implementação do REST API para a comunicação entre o frontend/backend.
-- **SQlite**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados.
-- **Bootstrap**: Framework front-end que fornece componentes prontos e estilos CSS/JS para criação de interfaces modernas e responsivas, garantindo boa experiência de uso em diferentes dispositivos.
-- **JavaScript**: Linguagem de programação voltada à interação dinâmica no front-end, responsável por manipular elementos da interface, validar formulários, exibir mensagens e aprimorar a experiência do usuário sem recarregar a página. Utilizada em conjunto com HTML e CSS para construir páginas mais interativas e responsivas..
+- **HTML5**: Criação de estruturas para o frontend, tal como o componente de listagem de chamados, layout da página principal e modal de login.
+- **CSS3 / Bootstrap**: Construção de layouts responsivos e visuais coerentes com a identidade da aplicação.
+- **JavaScript**: Implementação de funcionalidades dinâmicas, como a listagem/validação de chamados, fora o sistema de login para os técnicos e administradores.
+- **Python**: Desenvolvimento da lógica de backend, incluindo o tratamento de requisições e a integração com o banco de dados.
+- **Flask**: Criação de APIs REST para comunicação entre frontend e backend, além do gerenciamento de rotas.
+- **SQLite**: Manipulação de banco de dados relacional, com execução de queries e persistência de informações.
 
 ## Soft Skills
 
@@ -140,18 +140,18 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Criação do protótipo inicial do projeto (figma);
-- Criação do layout do modal para cadastro de novos trabalhos/atividades;
-- Criação do componente para cadastro de novas salas, com associação de horarios e alunos;
-- Criação do sistema de alertas/lembretes sobre atividades e avaliações;
-- Atuação como Product Owner do projeto, validando as entregas junto ao cliente interno;
+- Prototipação da interface no Figma, estabelecendo padrões visuais e fluxos de interação que orientaram o desenvolvimento da aplicação desktop;
+- Criação do modal para cadastro de atividades e avaliações, possibilitando a inserção de notas e observações individualizadas;
+- Implementação do módulo de cadastro de turmas e alunos, criando a estrutura de dados e o front-end correspondente, permitindo a vinculação de alunos a disciplinas e horários.;
+- Criação do sistema de alertas e lembretes automáticos, garantindo que professores fossem notificados sobre prazos de atividades pendentes;
+- Atuação como Product Owner  do projeto, coordenando reuniões, validando as entregas junto ao cliente e mantendo o alinhamento entre o time e os requisitos definidos;
 
 ## Hard Skills
 
-- Java: Principal linguagem de programação utilizada na cosntrução da aplicação.
-- Java Swing: Frontend desenvolvido com este framework, utilizando-o para criar e manipular componentes visuais, incluindo botões, eventos e redirecionamentos. 
-- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação, incluindo instituições, turmas, alunos e atividades avaliativas.
-- Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
+- Java / Java Swing: Desenvolvimento da aplicação desktop, criação de formulários, eventos e componentes interativos. 
+- MySQL: Manipulação de banco de dados relacional, incluindo modelagem de entidades, consultas e triggers.
+- Figma: Elaboração do design visual e validação de protótipos junto ao cliente interno.
+- Trello: Organização das tarefas e acompanhamento do progresso de cada sprint.
 
 ## Soft Skills
 
@@ -207,17 +207,18 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Criação do sistema de web scraping no backend por meio da biblioteca Jsoup;
-- Criação do sistema de agendamento de raspagem de dados (diario, semanal ou mensal) no Spring Boot;
-- Alteração do modal de listagem de notícias cadastradas, filtrando por data e site;
-- Integração das páginas de tag e listagem de notícias com o backend;
+- Implementação do módulo de Web Scraping, utilizando a biblioteca Jsoup para capturar e estruturar dados de notícias de diversos portais, extraindo informações como título, autor, data e conteúdo.;
+- Criação do sistema de agendamento automático de raspagem de dados, utilizando o Spring Scheduler, o que permitiu ao usuário definir frequências de coleta (diária, semanal ou mensal);
+- Desenvolvimento de endpoints RESTful no Spring Boot para o gerenciamento de portais, APIs, tags e consultas;
+- Criação e ajuste dos modais de listagem de notícias e filtragem por tags e datas, otimizando a experiência do usuário;
+- Integração das páginas de tag e listagem de notícias com o backend, realizando a validação das rotas via postman;
 
 ## Hard Skills
 
-- Java: Principal linguagem de programação utilizada na cosntrução da aplicação.
-- Spring Boot: Framework utilizado no backend para lidar com as requisições das APIs REST.
-- Jsoup: Biblioteca baseada em Java, utilizada para raspagem de dados dos portais online.
-- MySQL: Banco de dados relacional utilizado para armazenar todas as informações da aplicação.
+- Java / Spring Boot: Desenvolvimento de APIs REST, configuração de endpoints e gestão de dependências via Maven, além da implementação de rotinas automatizadas de coletas de dados em diferentes intervalos de tempo.
+- Jsoup: Criação de scripts de raspagem de dados (web scraping), realizando parsing de HTML e extração seletiva de elementos.
+- MySQL: Estruturação de banco de dados relacional para armazenamento de portais, tags e notícias.
+- Postman: Teste e validação das APIs, verificando status HTTP, payloads e tempos de resposta
 - Figma: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
 
 ## Soft Skills
@@ -277,18 +278,20 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Criação dos protótipos iniciais do sistema (wireframe), além de sua identidade visual;
-- Criação do menu principal, filtrado pelo perfil do usuário para exibição correta dos componentes;
-- Criação dos modais de listagem de fazendas e talhões, além dos componentes de cadastro e edição do mesmos;
-- Criação dos dashboards com as métricas do sistema para o uso do gestor/gerência, permitindo o acompanhamento/controle das atividades executadas pelo time;
+- Planejamento do visual e implementação das interfaces do sistema, desde a criação dos wireframes no Figma até o desenvolvimento do frontend em Vue.js;
+- Criação do menu principal da aplicação, integrando a exibição de componentes com base no perfil do usuário (administrador, analista ou consultor);
+- Implementação dos modais de listagem, cadastro e edição de fazendas e talhões, conectando-os às rotas REST do backend desenvolvido em Spring Boot;
+- Desenvolvimento dos dashboards gerenciais, integrando gráficos e indicadores de desempenho para auxiliar gestores na análise de produtividade do time e informações dos talhões cadastrados;
+- Integração entre frontend e backend, utilizando Axios para consumo de APIs e testes com Postman.
 
 ## Hard Skills
 
-- **Java**: Principal linguagem de programação utilizada na cosntrução da aplicação. 
--** Spring Boot**: Framework utilizado no backend para lidar com as requisições das APIs REST.
-- **Vue**: Framework utilizada para construção do frontend e todas as suas interfaces, incluindo a camada de edição dos talhões e dashboards para controle dos dados.
-- **MySQL**: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. 
-- **Figma**: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
+- **Java/ Spring Boot**: Implementação e manutenção de endpoints REST e integração com o banco de dados.
+- **Vue**: Desenvolvimento de componentes dinâmicos e responsivos, aplicando boas práticas de componentização e reatividade, incluindo a camada de edição dos talhões e dashboards para controle dos dados.
+- **Docker**: Criação de containers para backend e frontend, garantindo portabilidade e uniformidade do ambiente de execução.
+- **MySQL**: Manipulação de dados relacionais para o armazenamento das informações agrícolas, tais como os talhões, fazendas, dados GeoJSON, etc. 
+- **Figma**: Criação dos protótipos de interface, fluxos de interação e validação da experiência do usuário.
+- **Postman**: Validação de respostas corretas pelo backend.
 
 ## Soft Skills
 
