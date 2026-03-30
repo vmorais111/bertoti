@@ -336,39 +336,49 @@ Minhas principais contribuições no projeto foram:
 
 ## Tecnologias Utilizadas
 
-- **Java**: Linguagem principal utilizada para o desenvolvimento do backend da aplicação, responsável pela lógica de negócio e integração com o banco de dados.
-- **Spring Boot**: Framework Java que facilita a criação de aplicações web robustas e escaláveis, fornecendo configuração simplificada e integração nativa com APIs REST.
-- **Vue.js**: Framework JavaScript utilizado para o desenvolvimento do frontend, garantindo interfaces interativas, responsivas e de fácil manutenção.
-- **Mysql**: Banco de dados relacional adotado para armazenar e gerenciar as informações do sistema, oferecendo alta confiabilidade e eficiência nas consultas.
-- **Docker**: Ferramenta utilizada para conteinerização da aplicação, permitindo padronização do ambiente, facilidade de deploy e portabilidade entre sistemas.
-- **Postman**: Utilizado para testar e validar os endpoints da API, assegurando o correto funcionamento das rotas e a integridade da comunicação entre frontend e backend.
-- **Figma**: Plataforma empregada para o design e prototipação das interfaces, possibilitando a visualização e validação da experiência do usuário antes da implementação.
+- **Java 21**: Linguagem principal utilizada no backend da aplicação, responsável pela lógica de negócio, processamento das métricas e exposição dos dados para consumo no painel gerencial.
+- **Spring Boot**: Framework adotado no backend para construção da API REST, facilitando a organização em camadas, a criação dos endpoints e a inicialização da aplicação.
+- **React**: Biblioteca utilizada no frontend para construção da interface web e dos dashboards analíticos.
+- **JavaScript, HTML e CSS**: Tecnologias utilizadas na construção da interface do sistema, compondo a base do frontend e permitindo a criação de componentes visuais, gráficos, modais e filtros interativos.
+- **Python**: Linguagem utilizada na camada de ETL, responsável pela preparação, transformação e alimentação dos dados consumidos pela aplicação.
+- **PostgreSQL**: Banco de dados relacional utilizado para persistência das informações da aplicação.
+- **Maven**: Ferramenta de gerenciamento de dependências e build do backend Java, utilizada para executar a aplicação e organizar o ciclo de desenvolvimento.
+- **Swagger**: Utilizado para documentação e testes interativos dos endpoints da API, permitindo explorar rotas, parâmetros, modelos de dados e validar integrações diretamente no navegador.
+- **SonarQube / SonarCloud**: Ferramenta de análise de qualidade do código adotada no projeto base, contribuindo para inspeção contínua da base e acompanhamento de boas práticas.
+- **Jira**: Plataforma de origem dos dados analisados pela solução, uma vez que o objetivo do projeto foi desenvolver uma aplicação de inteligência de negócios integrada à base de dados do Jira para ampliar a visibilidade dos indicadores de projetos.
 
 ## Contribuições Pessoais
 
 Minhas principais contribuições no projeto foram:
 
-- Criação dos protótipos iniciais do sistema (wireframe), além de sua identidade visual;
-- Criação do menu principal, filtrado pelo perfil do usuário para exibição correta dos componentes;
-- Criação dos modais de listagem de fazendas e talhões, além dos componentes de cadastro e edição do mesmos;
-- Criação dos dashboards com as métricas do sistema para o uso do gestor/gerência, permitindo o acompanhamento/controle das atividades executadas pelo time;
+- Criação da **API de consolidação de custos** no backend, contemplando a estrutura necessária para disponibilizar métricas orçamentárias e apoiar os painéis gerenciais de custo.
+- Desenvolvimento da **aba/dashboard de custos** no frontend, permitindo a visualização consolidada de custos dos projetos, alinhada ao acompanhamento estratégico desses indicadores.
+- Criação dos **gráficos de horas por desenvolvedor, por atividade e por dia**, ampliando a capacidade analítica do sistema sobre esforço e distribuição de trabalho da equipe.
+- Implementação do **modal de custo por desenvolvedor** e da funcionalidade de **alteração dinâmica do custo/hora**, tornando a análise orçamentária mais flexível para o perfil gerencial.
+- Criação dos **testes unitários e de integração** no backend, incluindo configuração de ambiente de testes, com foco em aumentar a confiabilidade da aplicação.
+- Criação dos **testes unitários e de integração** no frontend, estruturando uma base de validação para componentes e serviços da interface.
+- Implementação do **ETL da dimensão de desenvolvedores** e da **fato custo-hora**, contribuindo diretamente para a preparação dos dados utilizados nas análises e dashboards do sistema.
+- Realização de **correções de bugs, ajustes pós-merge e refatorações**, especialmente em testes e limpeza de código, colaborando para a estabilidade e manutenção do projeto.
 
 ## Hard Skills
 
-- **Java**: Principal linguagem de programação utilizada na cosntrução da aplicação. 
--** Spring Boot**: Framework utilizado no backend para lidar com as requisições das APIs REST. 
-- **Vue**: Framework utilizada para construção do frontend e todas as suas interfaces, incluindo a camada de edição dos talhões e dashboards para controle dos dados.
-- **MySQL**: Banco de dados relacional utilizado para armazenar todas as informações da aplicação. 
-- **Figma**: Ferramenta de prototipação, utilizada para criação de interfaces e validação das mesmas junto ao cliente.
+- **Java**: Utilizado na implementação de funcionalidades do backend, especialmente na construção da API de consolidação de custos, organização da lógica de negócio e criação de testes para validação das regras implementadas.
+- **Spring Boot**: Aplicado na estruturação dos endpoints REST, na separação em camadas da aplicação e na integração entre controllers, services, repositories e ambiente de testes.
+- **React**: Utilizado no desenvolvimento dos dashboards, gráficos e componentes visuais do sistema, com foco na entrega de interfaces analíticas voltadas ao acompanhamento de custos e esforço da equipe.
+- **JavaScript**: Aplicado na implementação da lógica do frontend, na comunicação com os serviços da aplicação e na construção de interações como filtros, modais e atualização dinâmica dos dados exibidos.
+- **Python**: Utilizado na implementação dos processos de ETL, incluindo rotinas de extração, transformação e carga dos dados de desenvolvedores e de custo-hora.
+- **PostgreSQL**: Empregado de forma integrada ao backend e ao ETL, apoiando a persistência e o tratamento dos dados necessários para alimentar os indicadores do sistema.
+- **Swagger**: Utilizado para validar e verificar os endpoints desenvolvidos, apoiando a conferência das rotas e a consistência das integrações entre backend e frontend.
+- **Testes Unitários e de Integração**: Aplicados na validação das funcionalidades desenvolvidas no backend e no frontend, contribuindo para identificar falhas, corrigir bugs e aumentar a confiabilidade das entregas.
 
 ## Soft Skills
 
-- **Comunicação**: Mantive contato constante com os membros da equipe para alinhar as expectativas e definir prioridades de desenvolvimento, garantindo que todos estivessem cientes do progresso e dos desafios enfrentados. Essa troca contínua facilitou a resolução de dúvidas técnicas e a coordenação eficiente entre as camadas de frontend e backend.
+- **Comunicação**: Atuei em atividades que atravessaram backend, frontend e ETL, exigindo alinhamento constante com diferentes frentes do projeto para garantir coerência/consistência entre dados, regras de negócio e visualização das métricas.
 
-- **Gestão de Tempo**: Organizei e planejei as tarefas de acordo com o cronograma estabelecido, priorizando entregas críticas e evitando gargalos no desenvolvimento. Essa habilidade foi essencial para equilibrar prazos acadêmicos e demandas técnicas, mantendo o ritmo de progresso constante ao longo do projeto.
+- **Gestão de Tempo**: Minha participação ocorreu em múltiplas etapas do projeto, incluindo implementação de funcionalidades, testes, correções e integração entre sprints, demonstrando organização para lidar com entregas sucessivas ao longo do cronograma.
 
-- **Pensamento Crítico**: Analisei e avaliei diferentes soluções técnicas para os problemas enfrentados, especialmente em pontos de integração entre o backend em Spring Boot e o frontend em Vue.js. Essa postura analítica permitiu propor alternativas mais eficientes, reduzindo a complexidade e melhorando a performance do sistema.
+- **Pensamento Crítico**: Contribuí com funcionalidades analíticas voltadas a custos, esforço por desenvolvedor e consolidação de métricas, o que demanda capacidade de interpretar requisitos gerenciais e traduzi-los em soluções técnicas úteis para tomada de decisão.
 
-- **Adaptabilidade**: Diante de imprevistos técnicos e novas ferramentas, busquei aprender rapidamente e me adaptar às tecnologias utilizadas, como Docker e PostgreSQL. Essa flexibilidade possibilitou contribuir de forma mais ampla para o projeto, independentemente da camada de desenvolvimento em que estivesse atuando.
+- **Adaptabilidade**: Trabalhei com diferentes tecnologias e camadas da solução — Java/Spring Boot no backend, React no frontend e Python no ETL — demonstrando flexibilidade para contribuir de forma ampla conforme a necessidade do projeto.
 
 </details>
