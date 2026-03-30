@@ -327,11 +327,10 @@ Minhas principais contribuições no projeto foram:
   
   <div align="center">
     
-  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f5103b59-80b5-4a28-9431-e0a271d13dea" />
+  <img width="1366" height="598" alt="image" src="https://github.com/user-attachments/assets/3b2c545d-2898-4ed1-8678-ea84c168a3e4" />
 
   </div>
   
-  - Link: https://www.youtube.com/watch?v=h9xtqRggVMw
 </details>
 
 ## Tecnologias Utilizadas
