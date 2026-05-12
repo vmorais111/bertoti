@@ -381,3 +381,114 @@ Minhas principais contribuições no projeto foram:
 - **Adaptabilidade**: Trabalhei com diferentes tecnologias e camadas da solução — Java/Spring Boot no backend, React no frontend e Python no ETL — demonstrando flexibilidade para contribuir de forma ampla conforme a necessidade do projeto.
 
 </details>
+
+<details>
+<summary>6º Semestre - ZEUS (Inteligência de Mercado para Redes de Distribuição de Energia)</summary>
+
+#### **Informações**:
+- **Data**: _2026 - 1º Sem_.
+- **Empresa:** *Tecsys do Brasil*
+- **Proposta:** Sistema web para ingestão, análise e transformação de dados públicos da ANEEL/BDGD em inteligência de mercado para priorização técnica e comercial no setor de distribuição de energia elétrica.
+
+#### **Desafio:** 
+<p align="justify">
+A Tecsys do Brasil, empresa que atua com soluções avançadas de monitoramento em tempo real para redes de distribuição de energia, enfrentava uma limitação estratégica relacionada à ausência de um processo estruturado para ingestão, tratamento e análise de dados públicos da ANEEL. Essa limitação dificultava a transformação de grandes volumes de dados externos em inteligência de mercado, fazendo com que a identificação de regiões críticas, oportunidades comerciais e prioridades técnicas dependesse de análises manuais, pouco escaláveis e sujeitas a inconsistências.
+</p>
+
+<p align="justify">
+O desafio do projeto consistiu em desenvolver uma solução capaz de centralizar dados públicos, processá-los de forma rastreável, calcular indicadores relevantes para o setor elétrico e apoiar decisões estratégicas com base em evidências, especialmente a partir de indicadores como DEC, FEC, perdas de energia, TAM físico, SAM e criticidade regional.
+</p>
+
+#### **Solução:** 
+<p align="justify">
+Como solução, foi desenvolvido o ZEUS, uma plataforma web voltada à inteligência comercial e técnica para redes de distribuição de energia elétrica. A aplicação transforma dados públicos da ANEEL/BDGD em informações acionáveis, oferecendo recursos como pipeline de ETL versionado, cálculo de TAM físico, estrutura para cálculo de SAM, ranking analítico de criticidade, análise de indicadores DEC/FEC, base para visualização geográfica e suporte à previsão de indicadores por modelos de Machine Learning.
+</p>
+
+<p align="justify">
+A arquitetura da solução foi estruturada com separação entre dados sensíveis e dados analíticos públicos, utilizando PostgreSQL para informações relacionadas a usuários, autenticação, consentimentos e registros sensíveis, e MongoDB para armazenamento de grandes volumes de dados públicos e analíticos. A solução também incorporou requisitos de LGPD, trilhas de auditoria, controle de consentimento, gestão de termos, autenticação segura e rastreabilidade das cargas de dados.
+</p>
+
+**GitHub:** [ZEUS - API_6S](https://github.com/FatecNeoHorizon/API_6S)
+
+<details>
+  
+  <summary>Demo</summary>
+  
+  <div align="center">
+    
+  Zeus - Sprint 1: https://www.youtube.com/watch?v=w10nwgCj9kc
+
+  </div>
+  
+</details>
+
+## Tecnologias Utilizadas
+
+- **React**: Biblioteca utilizada no frontend para construção da interface web, organização de páginas, componentes reutilizáveis e navegação entre telas.
+- **TypeScript / JavaScript**: Utilizados na construção da camada visual, comunicação com APIs, estruturação de serviços e implementação de interações da aplicação.
+- **Vite**: Ferramenta utilizada para configuração e execução do ambiente frontend, proporcionando maior agilidade no desenvolvimento.
+- **Tailwind CSS**: Utilizado para estilização da interface, padronização visual e construção de componentes responsivos.
+- **Python**: Linguagem utilizada no backend e nos processos de ETL, especialmente no tratamento, transformação e carregamento de dados públicos relacionados a indicadores do setor elétrico.
+- **FastAPI**: Framework utilizado para construção de APIs no backend, permitindo a criação de endpoints para autenticação, consentimento, termos e serviços da aplicação.
+- **PostgreSQL**: Banco de dados relacional utilizado para armazenar dados sensíveis, usuários, sessões, tentativas de autenticação, consentimentos, termos e estruturas relacionadas à LGPD.
+- **MongoDB**: Banco de dados não relacional utilizado para armazenar dados públicos e analíticos em grande volume, especialmente dados provenientes da ANEEL/BDGD e indicadores processados.
+- **Docker**: Utilizado para padronização do ambiente de execução, facilitando a subida dos serviços e a reprodutibilidade do projeto.
+- **GitHub Actions**: Utilizado como apoio à automação e integração do fluxo de desenvolvimento.
+- **Turborepo**: Utilizado para organização do projeto em estrutura de monorepo.
+- **Java**: Utilizado no módulo de apoio relacionado ao acompanhamento de evolução do projeto por burndown.
+
+## Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Criação da **arquitetura inicial do frontend**, estruturando a aplicação React com rotas, páginas simuladas, componentes reutilizáveis, padrão de cliente API, integração com Tailwind CSS, organização de diretórios e compatibilidade com Docker.
+- Implementação e ajustes em componentes de frontend, incluindo páginas, contêineres, rotas, utilitários e estrutura visual inicial da aplicação.
+- Desenvolvimento de parte do **pipeline de ETL para transformação de dados DEC/FEC**, incluindo integração entre arquivos de carga e transformação dos dados antes da persistência analítica.
+- Participação na **reestruturação do banco de dados relacional PostgreSQL**, alinhando a modelagem a requisitos de segurança, LGPD, autenticação, consentimento e rastreabilidade.
+- Remoção e refatoração de estruturas obsoletas relacionadas à antiga tabela de logs, substituindo a abordagem por registros mais adequados ao controle de consentimento e auditoria.
+- Padronização do `EMAIL_HASH` com modelo determinístico baseado em SHA-256, fortalecendo a consistência das buscas e a proteção de dados sensíveis.
+- Criação da estrutura de **recuperação de senha**, incluindo tabela de tokens, controle de expiração, uso único e armazenamento seguro por hash.
+- Inclusão do campo `ANONYMIZED_AT` na estrutura de usuários, preparando o sistema para processos de anonimização lógica e ciclo de vida de dados pessoais.
+- Implementação de índices de performance voltados a sessões, tentativas de autenticação e consultas por usuário, e-mail hash, IP de origem e data/hora.
+- Implementação e ajuste de políticas de **Row Level Security (RLS)**, incluindo permissões administrativas, acesso por perfil e suporte a operações controladas de banco.
+- Configuração de bypass de RLS para papel administrativo de banco (`dba_role`), evitando bloqueios indevidos em operações de migração e manutenção.
+- Criação de validações e testes SQL para verificar o comportamento das permissões, políticas de acesso e papéis do banco.
+- Implementação do fluxo de **gestão de termos e consentimentos**, com endpoints para consulta de termos vigentes, verificação de consentimentos pendentes e registro de aceite ou revogação.
+- Criação de endpoints administrativos para versionamento e gerenciamento de políticas, versões de termos e cláusulas.
+- Implementação de proteção para impedir alterações indevidas em versões de políticas já efetivadas.
+- Implementação de registros de consentimento em modelo append-only, preservando histórico com versão da política, ação, IP, user agent e rastreabilidade.
+- Implementação do fluxo de **autenticação backend**, incluindo login, primeiro acesso, emissão e validação de JWT, criação de sessão e dependências reutilizáveis para usuários autenticados e administradores.
+- Implementação do endpoint `POST /auth/first-access`, permitindo validação de token de primeiro acesso, definição de senha inicial, conclusão do primeiro acesso e retorno de token JWT.
+- Implementação do endpoint `POST /auth/login`, com validação de e-mail, senha, usuário ativo, primeiro acesso pendente e consentimentos obrigatórios.
+- Implementação dos endpoints `POST /auth/forgot-password` e `POST /auth/reset-password`, com geração de token de recuperação, expiração de 24 horas, uso único e resposta genérica para evitar enumeração de usuários.
+- Realização de correções, merges, ajustes pós-integração e refatorações relacionadas a autenticação, consentimento, banco de dados, frontend e fluxo de desenvolvimento.
+
+## Hard Skills
+
+- **React**: Estruturação inicial da aplicação frontend, criação de páginas, rotas, componentes reutilizáveis e organização da interface.
+- **TypeScript / JavaScript**: Implementação da lógica de navegação, serviços de API, estruturação de componentes e integração da interface com os serviços backend.
+- **Tailwind CSS**: Configuração e aplicação de estilos utilitários para construção de interfaces responsivas e padronizadas.
+- **Vite**: Configuração do ambiente de desenvolvimento frontend, com foco em execução rápida e integração com a estrutura React.
+- **Python**: Desenvolvimento de rotinas de ETL, transformação de dados DEC/FEC e apoio à construção da camada backend.
+- **FastAPI**: Implementação de endpoints REST para autenticação, consentimento, termos e fluxos de acesso.
+- **PostgreSQL**: Modelagem e reestruturação do banco relacional, criação de tabelas, índices, políticas RLS, views e estruturas de segurança.
+- **MongoDB**: Apoio ao armazenamento de dados analíticos públicos e indicadores processados em estrutura não relacional.
+- **Flyway**: Organização e consolidação de migrations para reconstrução e versionamento do banco relacional.
+- **JWT**: Criação e validação de tokens de autenticação, integrados ao controle de sessões e permissões.
+- **Segurança da Informação**: Implementação de hash de senha, hash de tokens, prevenção contra enumeração de usuários, controle de expiração e uso único de tokens.
+- **LGPD e Governança de Dados**: Implementação de mecanismos de consentimento, histórico append-only, anonimização lógica e separação entre dados sensíveis e analíticos.
+- **Docker**: Execução e validação do ambiente completo de desenvolvimento por meio de containers.
+- **Testes e Validação Técnica**: Criação e execução de testes SQL, validação de endpoints e conferência de comportamento de autenticação, consentimento e permissões.
+
+## Soft Skills
+
+- **Responsabilidade Técnica**: Atuei em pontos sensíveis do sistema, especialmente autenticação, primeiro acesso, consentimento, recuperação de senha, políticas de segurança e banco de dados, exigindo atenção à estabilidade e à proteção das informações.
+- **Pensamento Crítico**: Analisei requisitos técnicos, jurídicos e operacionais relacionados à LGPD, transformando necessidades de segurança e conformidade em estruturas concretas de banco, API e fluxo de autenticação.
+- **Resolução de Problemas**: Trabalhei na correção de conflitos, ajustes pós-merge, refatorações e problemas de integração entre frontend, backend, banco de dados e ambiente Docker.
+- **Organização**: Estruturei entregas em branches, commits, pull requests e documentação técnica, mantendo rastreabilidade entre issues, funcionalidades e critérios de aceite.
+- **Colaboração**: Contribuí em diferentes camadas do projeto, dialogando com demandas de frontend, backend, banco de dados, segurança e regras de negócio.
+- **Adaptabilidade**: Atuei com múltiplas tecnologias e responsabilidades ao longo do projeto, incluindo React, Python, FastAPI, PostgreSQL, MongoDB, Docker, JWT, RLS e processos de ETL.
+- **Comunicação Técnica**: Registrei de forma clara o que foi implementado, riscos, impactos e formas de teste, facilitando revisão, validação e continuidade do trabalho pela equipe.
+- **Visão de Qualidade e Conformidade**: Contribuí para que a solução não fosse apenas funcional, mas também rastreável, segura, compatível com requisitos de LGPD e preparada para auditoria.
+
+</details>
