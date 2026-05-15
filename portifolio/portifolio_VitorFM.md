@@ -319,7 +319,7 @@ Minhas principais contribuições no projeto foram:
 #### **Solução:** 
 <p align="justify"> Desenvolvimento de uma aplicação web de inteligência de negócios para gestão de projetos, integrada à base de dados do Jira por meio da utilização de uma API. Essa ferramenta possuirá um painel de controle centralizado, fornecendo uma visão clara do desempenho dos projetos, os gastos associados, o andamento das tarefas, dentre outros indicadores relevantes ao gestores dos projetos. </p>
 
-**GitHub:** [Neo Horizon](https://github.com/FatecNeoHorizon/API_5)
+**GitHub:** [Neo Horizon](https://github.com/FatecNeoHorizon/API_5S)
 
 <details>
   
