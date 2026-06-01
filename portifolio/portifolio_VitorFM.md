@@ -9,7 +9,7 @@
 <div align="left">
   
 <p align="justify"> 
-Olá, me chamo Vitor Faria Morais, aluno do 5º período do curso de Tecnologia em Banco de Dados pela FATEC SJC - Prof. Jessen Vidal <i>(2024 - Momento Atual)</i>. Formado como Bacharel em Direito pela Universidade do Estado de Minas Gerais (UEMG) <i>(2017 - 2022)</i>, ingressei originalmente na FATEC pelo curso de Tecnologia em Análise e Desenvolvimento de Sistemas <i>(2022 - 2024)</i>, tendo realizado 4 semestres do mesmo.
+Olá, me chamo Vitor Faria Morais, aluno do 6º período do curso de Tecnologia em Banco de Dados pela FATEC SJC - Prof. Jessen Vidal <i>(2024 - Momento Atual)</i>. Formado como Bacharel em Direito pela Universidade do Estado de Minas Gerais (UEMG) <i>(2017 - 2022)</i>, ingressei originalmente na FATEC pelo curso de Tecnologia em Análise e Desenvolvimento de Sistemas <i>(2022 - 2024)</i>, tendo realizado 4 semestres do mesmo.
 </p>
   
 <p align="justify">
